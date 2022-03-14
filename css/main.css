@@ -7,12 +7,12 @@ html {
 }
 
 body {
-  margin: 1rem 0rem;
+  /*margin: ;*/
   padding: 0rem 1rem;
 }
 
 article {
-  border-top: 0px;
+  margin-top: 0px;
 }
 
 article p {
@@ -31,8 +31,6 @@ article h1 {
 
 article header p {
   font-style: italic;
-  margin-top: 0rem;
-  margin-bottom: 1em;
 }
 
 article header {
@@ -48,5 +46,5 @@ blockquote {
 }
 
 article ol {
-  margin-left: 0px;
+  margin-left: 0em;
 }
