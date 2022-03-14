@@ -13,7 +13,7 @@ html {
 
 article h1 {
   font-size: 1.5rem;
-  margin-bottom: 0.2rem;
+  line-height: 1.3;
 }
 
 article header p {
@@ -30,9 +30,17 @@ blockquote {
 }
 
 .quote {
-    color: #555;
+  color: #555;
 }
 
 article ol {
+  margin-left: 0px;
+}
+
+body {
+
+}
+
+article p {
 
 }
