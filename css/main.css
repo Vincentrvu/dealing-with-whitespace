@@ -12,12 +12,19 @@ html {
 
 h1 {
   font-size: 1.5rem;
+  margin-bottom: 0.2rem;
 }
 
 h1 + p {
   font-style: italic;
+  margin-bottom: 1rem;
 }
 
-.quote {
-  color: #999;
+header {
+  border-bottom: 2px solid #999;
+}
+
+blockquote p {
+  color: #555;
+  font-size: 1.125rem;
 }
