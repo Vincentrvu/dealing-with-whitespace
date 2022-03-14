@@ -20,7 +20,7 @@ article p {
   line-height: 1.3;
   color: #222;
   font-weight: normal;
-  border-bottom: 1.3rem;
+  margin-bottom:: 1.3rem;
 }
 
 article h1 {
@@ -44,7 +44,7 @@ blockquote {
 }
 
 .quote {
-  color: #999;
+  color: #555;
 }
 
 article ol {
