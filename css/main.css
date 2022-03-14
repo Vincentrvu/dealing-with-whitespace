@@ -55,3 +55,7 @@ blockquote {
 article ol {
   margin-left: 0;
 }
+
+ol + p {
+  margin-bottom: 1em;
+}
